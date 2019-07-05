@@ -1,0 +1,3 @@
+/home/cy8182/repos/OpenNI-Linux-x64-2.3/Samples/SimpleViewer/build/CMakeFiles/edit_cache.dir
+/home/cy8182/repos/OpenNI-Linux-x64-2.3/Samples/SimpleViewer/build/CMakeFiles/rebuild_cache.dir
+/home/cy8182/repos/OpenNI-Linux-x64-2.3/Samples/SimpleViewer/build/CMakeFiles/bone.dir
